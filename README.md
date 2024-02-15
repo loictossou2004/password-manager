@@ -15,7 +15,7 @@
 <img src="image/screen.png">
 
 
-Le Password Manager est une application en Rust conçue pour fournir une solution pour gérer vos mots de passe. Vos données sont cryptées et vous êtes les seuls à y avoir accès depuis le superutilisateur(root).
+Le Password Manager est une application en Rust conçue pour fournir une solution pour gérer vos mots de passe. Vos données sont cryptées et vous êtes les seuls à y avoir accès depuis le superutilisateur(**root**).
 
 ## Fonctionnalités
 
